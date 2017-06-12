@@ -7,12 +7,12 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-class WEBAPI
+class GWEB
 {
 
     public string url = "";
 
-    public WEBAPI(string link)
+    public GWEB(string link)
     {
         this.url = link;
     }
